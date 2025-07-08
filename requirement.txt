@@ -1,0 +1,7 @@
+# Core Libraries
+numpy==1.26.4             # For numerical operations and array handling
+pandas==2.2.2             # For data manipulation and analysis
+matplotlib==3.8.4         # For data visualization
+
+# Machine Learning
+scikit-learn==1.4.1.post1 # For training and evaluating ML models (Random Forest, Logistic Regression, etc.)
